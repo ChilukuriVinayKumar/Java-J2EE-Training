@@ -7,8 +7,6 @@ public class ShiftOperatorUsingNegativeNumbers
 		int num=-100;
 		System.out.println(num>>2);
 		System.out.println(num<<2);
-		
-
 	}
 
 }
