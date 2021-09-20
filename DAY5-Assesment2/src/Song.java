@@ -13,6 +13,10 @@ class SongObject
 		this.hasLogo=hasLogo;
 	}
 	
+	public String output(){
+		return "This is a repo on Java J2EE";
+	} 
+
 	public String toString() 
 	{
 		return "Song name : "+name+" duration : "+duration+" hasLogo : "+hasLogo;
